@@ -7,3 +7,4 @@ tem a fazer é executar o checkout do branch para onde deseja fazer o merge e
 então rodar o comando git merge:
 git checkout master
 git merge novabranch
+alteração
